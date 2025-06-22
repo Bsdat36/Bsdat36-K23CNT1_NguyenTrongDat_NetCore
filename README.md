@@ -1,1 +1,5 @@
-# Bsdat36-K23CNT1_NguyenTrongDat_NetCore
+# K23CNT1 - NGUYỄN TRỌNG ĐẠT - NETCOR(8.X)
+Phát triển ứng dụng wed với công nghệ .NET
+# Nội dung học phần
+=========================================
+
